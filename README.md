@@ -14,7 +14,7 @@ pip install -r requirement.txt
 Sign into elevenlabs and get the api keys for the chatbot.<br>
 Rename .env.example to .env and add the api keys.
 ```
-elevenlabs_key=
+elevenlabs_key=<your_api_key>
 ```
 <br>
 
