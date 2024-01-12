@@ -1,0 +1,4 @@
+elevenlabs
+json
+os
+python-dotenv

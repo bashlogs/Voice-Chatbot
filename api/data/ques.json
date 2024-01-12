@@ -1,0 +1,35 @@
+[
+    {
+        "language": "English",
+        "questions": [
+            "Is this another appointment or a follow-up from a previous one?",
+            "How would you describe your pain or discomfort?",
+            "Can you provide some details about your medical history?",
+            "Are you currently taking any medications?",
+            "Could you please share your health records with us?",
+            "Is there anything else you want to convey to the doctor?"
+        ]
+    },
+    {
+        "language": "Spanish",
+        "questions": [
+            "¿Es esta otra cita o un seguimiento de una cita anterior?",
+            "¿Cómo describirías tu dolor o malestar?",
+            "¿Puedes proporcionar algunos detalles sobre tu historial médico?",
+            "¿Estás tomando algún medicamento en este momento?",
+            "¿Podrías compartir tus registros médicos con nosotros?",
+            "¿Hay algo más que desees comunicar al médico?"
+        ]
+    },
+    {
+        "language": "Hindi",
+        "questions": [
+            "क्या यह एक और नियुक्ति है या पिछली एक से आगे की है?",
+            "आप अपने दर्द या असहमति को कैसे वर्णित करेंगे?",
+            "क्या आप अपने चिकित्सा इतिहास के बारे में कुछ विवरण प्रदान कर सकते हैं?",
+            "क्या आप वर्तमान में कोई दवाएँ ले रहे हैं?",
+            "क्या आप कृपया हमारे साथ अपनी स्वास्थ्य रिकॉर्ड साझा कर सकते हैं?",
+            "क्या आप डॉक्टर को कुछ और संदेश देना चाहेंगे?"
+        ]
+    }
+]
