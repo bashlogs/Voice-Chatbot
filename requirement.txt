@@ -2,3 +2,7 @@ elevenlabs
 json
 os
 python-dotenv
+SpeechRecognition 
+pydub 
+pyaudio
+pyttsx3
